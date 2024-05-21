@@ -1,7 +1,7 @@
 /*
  * Try This 1-1
  * 
- * This program converts gallons to litres.
+ * This program converts 10 gallons to litres.
  */
 
 public class GalToLit {
