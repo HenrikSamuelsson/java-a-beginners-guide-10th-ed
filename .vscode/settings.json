@@ -2,5 +2,10 @@
     "cSpell.words": [
         "Schildt",
         "Temurin"
-    ]
+    ],
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 79,
+    "[markdown]": {
+        "editor.wordWrap": "bounded"
+    }
 }
